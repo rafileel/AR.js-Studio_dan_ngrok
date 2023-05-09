@@ -89,21 +89,21 @@ buka ngrok dan jalankan perintah "ngrok http 80" lalu buka link yang muncul ke p
 
 lalu klik visit site lalu klik file ar(1) / yang di download tadi
  <p align="center">
-    <img src="image/README/delapann.png" width="700" />
+    <img src="image/README/delapann.jpg" width="700" />
     <br>
  </p>
  <p align="center">
-    <img src="image/README/sembilann.png" width="700" />
+    <img src="image/README/sembilann.jpg" width="700" />
     <br>
  </p>
  
 kemudian izin kamera lalu scan gambar pertama seperti pada gambar
  <p align="center">
-    <img src="image/README/sebelas.png" width="700" />
+    <img src="image/README/sebelas.jpg" width="700" />
     <br>
  </p>
  <p align="center">
-    <img src="image/README/sepuluh.png" width="700" />
+    <img src="image/README/sepuluh.jpg" width="700" />
     <br>
  </p>
 
